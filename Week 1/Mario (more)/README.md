@@ -37,3 +37,6 @@ Notice that width of the “gap” between adjacent pyramids is equal to the wid
 Open your `mario.c` file to implement this problem as described!
 
 ---
+
+This task was copied from CS50’s Introduction to Computer Science
+[(see the original version)](https://cs50.harvard.edu/x/2023/psets/1/mario/more/).
