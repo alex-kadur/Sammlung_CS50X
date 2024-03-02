@@ -31,3 +31,5 @@ Once finished with your project, select **File > Save now** one last time. Then 
 
 ---
 
+This task was copied from CS50’s Introduction to Computer Science
+[(see the original version)](https://cs50.harvard.edu/x/2023/psets/0/scratch/).
