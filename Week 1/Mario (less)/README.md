@@ -38,6 +38,9 @@ Height: 4
 
 ---
 
+This task was copied from CS50’s Introduction to Computer Science
+[(see the original version)](https://cs50.harvard.edu/x/2023/psets/1/mario/less/).
+
 
 
 
