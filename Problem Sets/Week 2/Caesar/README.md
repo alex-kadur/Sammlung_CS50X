@@ -27,3 +27,6 @@ Design and implement a program, `caesar`, that encrypts messages using Caesar’
 - After outputting ciphertext, you should print a newline. Your program should then exit by returning `0` from `main`.
 
 ---
+
+This is a shortened version of the task provided by CS50’s Introduction to Computer Science
+[(see the original version)](https://cs50.harvard.edu/x/2023/psets/2/caesar/).
