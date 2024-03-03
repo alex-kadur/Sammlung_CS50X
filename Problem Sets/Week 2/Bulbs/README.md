@@ -26,3 +26,6 @@ Message: HI!
 
 ---
 
+This is a shortened version of the task provided by CS50’s Introduction to Computer Science
+[(see the original version)](https://cs50.harvard.edu/x/2023/psets/2/bulbs/).
+
