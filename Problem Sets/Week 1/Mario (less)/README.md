@@ -1,6 +1,8 @@
-# Mario - World 1-1
+# Mario
 
 ---
+
+## World 1-1
 
 Toward the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks [...].
 
