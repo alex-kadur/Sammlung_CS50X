@@ -44,3 +44,6 @@ Recall that there are several sample programs in Week 1’s Source Code that ill
 
 ---
 
+This task was copied from CS50’s Introduction to Computer Science
+[(see the original version)](https://cs50.harvard.edu/x/2023/psets/1/cash/).
+
