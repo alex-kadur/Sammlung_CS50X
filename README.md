@@ -3,7 +3,7 @@
 ---
 
 ## Inhalt
-Dieses Repository enthält `aktuell ... Programme`, die ich für *CS50-s-Introduction-to-Computer-Science* geschrieben habe. Ich habe den Kurs noch nicht beendet und es werden regelmäßig neue Inhalte hinzukommen. Das Repository wurde hauptsächlich zu dem Zweck erstellt, meine Arbeit für mich organisiert und zugänglich zu halten, soll diese aber auch für andere sichtbar machen. Da der Kurs in englischer Sprache gehalten wird und keine offizielle Übersetzung ins Deutsche existiert, werde ich im Folgenden ebenfalls auf die Übersetzung der Aufgabenstellungen verzichten und diese in Originalsprache abbilden.
+Dieses Repository enthält verschiedene Programme, die ich für *CS50-s-Introduction-to-Computer-Science* geschrieben habe. Der Kurs läuft aktuell und es werden regelmäßig neue Inhalte hinzukommen. Das Repository wurde hauptsächlich zu dem Zweck erstellt, meine Arbeit für mich organisiert und zugänglich zu halten, soll diese aber auch für andere sichtbar machen. Da der Kurs in englischer Sprache gehalten wird und keine offizielle Übersetzung ins Deutsche existiert, werde ich im Folgenden ebenfalls auf die Übersetzung der Aufgabenstellungen verzichten und diese in Originalsprache abbilden.
 
 ## Beispiele
 
@@ -27,7 +27,7 @@ Der Kurs ist unter Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 In
 ---
 
 ## Content
-This repository currently holds `... scripts` written for *CS50-s-Introduction-to-Computer-Science*. I didn't finish the course yet, so content will be added regularly. The repository was mainly created for the purpose of showcasing my work and keeping it organized and accessible.
+This repository currently holds multiple scripts written for *CS50-s-Introduction-to-Computer-Science*. Since the course is still ongoing, content will be added regularly. The repository was mainly created for the purpose of showcasing my work and keeping it organized and accessible.
 
 ## Examples
 
