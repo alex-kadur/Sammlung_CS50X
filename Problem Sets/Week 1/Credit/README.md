@@ -4,7 +4,9 @@
 
 ## Luhn’s Algorithm
 
-[...] According to Luhn’s algorithm, you can determine if a credit card number is (syntactically) valid as follows:
+[...]
+
+According to Luhn’s algorithm, you can determine if a credit card number is (syntactically) valid as follows:
 
 1) Multiply every other digit by 2, starting with the number’s second-to-last digit, and then add those products’ digits together.
 2) Add the sum to the sum of the digits that weren’t multiplied by 2.
