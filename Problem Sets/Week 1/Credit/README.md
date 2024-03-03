@@ -60,3 +60,6 @@ If your program behaves incorrectly on some inputs (or doesn’t compile at all)
 
 ---
 
+This task was copied from CS50’s Introduction to Computer Science
+[(see the original version)](https://cs50.harvard.edu/x/2023/psets/1/credit/).
+
