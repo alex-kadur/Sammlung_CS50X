@@ -1,4 +1,4 @@
-# C (CS50’s Introduction to Computer Science)
+# Sammlung: CS50’s Introduction to Computer Science
 
 ---
 
